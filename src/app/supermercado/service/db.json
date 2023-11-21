@@ -1,0 +1,11 @@
+{
+    "produtos": [
+        {
+            "img": "../../assets/choc.webp",
+            "nome": "Chocolate preto 80g",
+            "descricao": "Chocalate kinder de primeira qualidade",
+            "valor": 15.99,
+            "id": 1
+        }
+    ]
+}
